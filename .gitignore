@@ -1,0 +1,10 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# Temp files from VS Code Code Runner
+tempCodeRunnerFile.*
+
+# DSA roadmap (local reference only)
+dsa_learning_roadmap.html
