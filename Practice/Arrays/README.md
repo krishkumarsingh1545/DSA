@@ -1,7 +1,7 @@
 # 📦 Array Practice Problems
 
 > **Roadmap Phase:** 0 & 2
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -37,4 +37,4 @@
 
 - Always ask: *"Is the array sorted?"* — this unlocks two-pointer and binary search
 - Kadane's algorithm is a must-know — understand the intuition, not just the code
-- Practice both C (pointer arithmetic) and Python (list slicing) approaches
+- Practice both Java (`int[]`, `ArrayList`) and Python (list slicing) approaches

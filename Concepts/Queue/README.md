@@ -1,7 +1,7 @@
 # 🚶 Queue
 
 > **Roadmap Phase:** 0 — Revision Sprint
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -9,8 +9,8 @@
 
 ### Queue Implementations
 - **Array-based queue** — simple and circular variants
-- **Linked list-based queue** — dynamic, pointer-based
-- **C:** Struct-based with front/rear pointers
+- **Linked list-based queue** — dynamic, reference-based
+- **Java:** `Queue<Integer>` interface, `LinkedList`, `ArrayDeque`
 - **Python:** `collections.deque` and manual implementations
 
 ### Circular Queue

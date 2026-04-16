@@ -1,7 +1,7 @@
 # 🔄 Sorting Practice Problems
 
 > **Roadmap Phase:** 1
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -22,7 +22,7 @@
 - [ ] K-th largest/smallest element
 
 ### Custom Comparators
-- [ ] C: `qsort()` with custom compare function
+- [ ] Java: `Arrays.sort()` with `Comparator<T>` lambda
 - [ ] Python: `sorted()` with `key` parameter
 - [ ] Sort array by custom criteria
 

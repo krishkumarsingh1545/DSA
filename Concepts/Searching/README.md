@@ -1,7 +1,7 @@
 # 🔍 Searching Algorithms
 
 > **Roadmap Phase:** 1 — Core Foundations
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -28,7 +28,7 @@
 ## 🔑 Key Concepts
 
 - **Time complexity:** O(log n) — halving the search space each step
-- **lo/hi/mid template:** `mid = lo + (hi - lo) / 2` (avoids overflow in C)
+- **lo/hi/mid template:** `mid = lo + (hi - lo) / 2` (avoids integer overflow in Java)
 - **Search on answer space:** When the answer lies in a range, binary search on it
 - **Monotonic condition:** Binary search works whenever there's a clear boundary
 

@@ -1,6 +1,6 @@
 # 🚀 DSA — Data Structures & Algorithms
 
-A structured, concept-first journey through Data Structures and Algorithms in **C** and **Python**, following the **Striver A2Z DSA Sheet** roadmap.
+A structured, concept-first journey through Data Structures and Algorithms in **Java** and **Python**, following the **Striver A2Z DSA Sheet** roadmap.
 
 ---
 
@@ -26,11 +26,23 @@ A structured, concept-first journey through Data Structures and Algorithms in **
 DSA/
 ├── Concepts/          # Theory & concept implementations
 │   ├── Arrays/
+│   │   ├── Java/
+│   │   └── Python/
 │   ├── LinkedLists/
+│   │   ├── Java/
+│   │   └── Python/
 │   ├── Stack/
+│   │   ├── Java/
+│   │   └── Python/
 │   ├── Queue/
+│   │   ├── Java/
+│   │   └── Python/
 │   ├── Sorting/
+│   │   ├── Java/
+│   │   └── Python/
 │   └── Searching/
+│       ├── Java/
+│       └── Python/
 │
 ├── Practice/          # Problem-solving & practice code
 │   ├── Arrays/
@@ -53,7 +65,7 @@ DSA/
 
 | Language | Use Case |
 |----------|----------|
-| **C** | Low-level understanding — pointers, memory management, manual implementations |
+| **Java** | Strong typing, OOP patterns, interview-standard language — classes, generics, collections framework |
 | **Python** | High-level problem solving — built-in data structures, concise syntax |
 
 ---
@@ -65,12 +77,12 @@ DSA/
 git clone https://github.com/<your-username>/DSA.git
 cd DSA
 
-# Compile & run a C file
-gcc Concepts/Arrays/C/array1D.c -o array1D
-./array1D
+# Compile & run a Java file
+javac Concepts/Arrays/Java/Array1D.java
+java -cp Concepts/Arrays/Java Array1D
 
 # Run a Python file
-python Concepts/Arrays/Python/arrays.py
+python Concepts/Arrays/Python/array1D.py
 ```
 
 ---

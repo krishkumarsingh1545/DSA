@@ -1,6 +1,6 @@
 # 📖 Concepts
 
-This directory contains **theory and concept implementations** for each data structure and algorithm topic. Every folder includes clean, well-commented code in C and Python.
+This directory contains **theory and concept implementations** for each data structure and algorithm topic. Every folder includes clean, well-commented code in Java and Python.
 
 ## 📁 Folders
 
@@ -18,7 +18,7 @@ This directory contains **theory and concept implementations** for each data str
 Each folder may contain:
 ```
 TopicName/
-├── C/           # C implementations
+├── Java/        # Java implementations
 ├── Python/      # Python implementations
 └── README.md    # Topic-specific notes
 ```
@@ -26,5 +26,5 @@ TopicName/
 ## 💡 Approach
 
 - **Understand the concept** before coding — draw diagrams, trace through examples
-- **Implement from scratch** in both C and Python without looking at notes
+- **Implement from scratch** in both Java and Python without looking at notes
 - **Time yourself** to build speed and confidence

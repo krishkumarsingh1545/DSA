@@ -1,7 +1,7 @@
 # 📚 Stack Practice Problems
 
 > **Roadmap Phase:** 0 & 6
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -41,3 +41,5 @@
 - Monotonic stack problems appear frequently in interviews — practice until intuitive
 - Always think about what the stack *represents* (pending items? open brackets?)
 - Histogram problem is a classic — connects to trapping rain water
+- **Java:** Use `Deque<Integer> stack = new ArrayDeque<>()` (preferred over `Stack<T>`)
+- **Python:** Use `list` with `append`/`pop` for O(1) stack operations

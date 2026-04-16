@@ -1,7 +1,7 @@
 # 🔄 Sorting Algorithms
 
 > **Roadmap Phase:** 1 — Core Foundations
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -15,7 +15,7 @@
 ### Efficient Sorts (Code Both Languages)
 - **Merge Sort** — divide & conquer, O(n log n), stable
 - **Quick Sort** — partition-based, O(n log n) avg, in-place
-- **C:** Custom compare functions for `qsort()`
+- **Java:** `Comparator<T>` for custom sort via `Arrays.sort()` / `Collections.sort()`
 - **Python:** `key` parameter in `sorted()` and `.sort()`
 
 ---

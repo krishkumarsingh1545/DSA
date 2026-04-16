@@ -1,7 +1,7 @@
 # 📚 Stack
 
 > **Roadmap Phase:** 0 — Revision Sprint
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -9,8 +9,8 @@
 
 ### Stack Implementations
 - **Array-based stack** — fixed size, O(1) push/pop
-- **Linked list-based stack** — dynamic size, pointer-based
-- **C:** Manual implementation with struct and pointers
+- **Linked list-based stack** — dynamic size, reference-based
+- **Java:** Manual implementation with class/array, `Stack<T>`, `Deque<T>` as stack
 - **Python:** Using `list` as stack (`append`/`pop`)
 
 ### Monotonic Stack

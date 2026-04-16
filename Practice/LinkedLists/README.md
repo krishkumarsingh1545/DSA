@@ -1,7 +1,7 @@
 # 🔗 Linked List Practice Problems
 
 > **Roadmap Phase:** 0
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -41,4 +41,4 @@
 
 - Draw the pointer changes on paper before coding
 - Edge cases: empty list, single node, two nodes
-- In C, always free memory after deletion to avoid leaks
+- In Java, let the GC handle memory — focus on null-safety (`NullPointerException` prevention)

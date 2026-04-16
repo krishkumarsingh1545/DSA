@@ -1,7 +1,7 @@
 # 📦 Arrays
 
 > **Roadmap Phase:** 0 — Revision Sprint
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -11,7 +11,7 @@
 - Traversal and basic operations
 - Prefix sum technique
 - In-place modifications
-- **C:** Pointer arithmetic for array traversal
+- **Java:** `int[]` arrays, `ArrayList<Integer>`, pointer arithmetic via indices
 - **Python:** List slicing and comprehensions
 
 ### 2D Arrays
@@ -26,8 +26,10 @@
 
 | File | Description |
 |------|-------------|
-| `C/array1D.c` | 1D array operations in C |
-| `C/array2D.c` | 2D array operations in C |
+| `Java/Array1D.java` | 1D array operations in Java |
+| `Java/Array2D.java` | 2D array operations in Java |
+| `Python/array1D.py` | 1D array operations in Python |
+| `Python/array2D.py` | 2D array operations in Python |
 
 ---
 

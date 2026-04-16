@@ -1,7 +1,7 @@
 # 🔍 Searching Practice Problems
 
 > **Roadmap Phase:** 1
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 

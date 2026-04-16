@@ -1,6 +1,6 @@
 # 🎨 Pattern Printing Problems
 
-> **Language:** C
+> **Languages:** Java · Python
 > **Purpose:** Master nested loops and logical thinking
 
 ---
@@ -22,6 +22,8 @@
 | `Pattern11.c` | Floyd's triangle |
 | `Pattern12.c` | Butterfly pattern |
 
+> 🔄 **Migrating to Java & Python** — Java versions go in `Java/`, Python versions go in `Python/`
+
 ---
 
 ## 🔑 Key Concepts
@@ -36,10 +38,11 @@
 - Pattern problems train your loop control — essential for DSA thinking
 - Don't memorize patterns — understand the relationship between row, column, and the symbol
 - Try re-creating each pattern from scratch without looking at the code
-- Add Python versions for extra practice with string multiplication and f-strings
+- **Java:** Use `System.out.print()` / `System.out.println()` with `String.repeat()`
+- **Python:** Use string multiplication (`"*" * n`) and f-strings
 
 ---
 
 ## ✅ Status
 
-All 12 patterns implemented in C ✔️
+All 12 patterns implemented ✔️ (migrating from C → Java & Python)

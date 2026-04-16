@@ -1,7 +1,7 @@
 # 🚶 Queue Practice Problems
 
 > **Roadmap Phase:** 0
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -36,4 +36,5 @@
 
 - Queue using two stacks is asked very frequently — know both push-heavy and pop-heavy variants
 - BFS problems almost always use a queue — practice connecting queue to graph traversal
-- Sliding window maximum with deque is an important pattern for interviews
+- **Java:** Use `ArrayDeque<Integer>` (preferred over `Stack`/`Queue` interface + `LinkedList`)
+- **Python:** Use `collections.deque` for O(1) append/popleft

@@ -1,6 +1,6 @@
 # 🏋️ Practice
 
-This directory contains **problem-solving code and practice exercises** organized by topic. Each folder holds solutions to common DSA problems in C and Python.
+This directory contains **problem-solving code and practice exercises** organized by topic. Each folder holds solutions to common DSA problems in Java and Python.
 
 ## 📁 Folders
 
@@ -17,7 +17,7 @@ This directory contains **problem-solving code and practice exercises** organize
 ## 📝 File Naming Convention
 
 ```
-ProblemName.c      # C solution
+ProblemName.java   # Java solution
 ProblemName.py     # Python solution
 ```
 
@@ -25,6 +25,6 @@ ProblemName.py     # Python solution
 
 1. **Read the problem** — understand inputs, outputs, and constraints
 2. **Brute force first** — get a working solution, then optimize
-3. **Code in C first** — forces you to think about memory and pointers
+3. **Code in Java first** — reinforces OOP, strong typing, and interview-standard patterns
 4. **Rewrite in Python** — practice concise, Pythonic solutions
 5. **Analyze complexity** — always note time and space complexity

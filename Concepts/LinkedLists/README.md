@@ -1,7 +1,7 @@
 # 🔗 Linked Lists
 
 > **Roadmap Phase:** 0 — Revision Sprint
-> **Languages:** C · Python
+> **Languages:** Java · Python
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 🔑 Key Concepts
 
-- **Pointer manipulation (C):** `struct Node*` — master `next` and `prev` pointer operations
+- **Class-based nodes (Java):** `class Node { int data; Node next; }` — master `next` and `prev` reference operations
 - **Class-based nodes (Python):** Clean OOP approach with `__init__`, `__repr__`
 - **Runner technique:** Use fast/slow pointers for middle element, cycle detection
 - **Dummy head node:** Simplifies edge cases in insertion/deletion
