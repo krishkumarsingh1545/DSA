@@ -2,6 +2,7 @@
 *.exe
 *.out
 *.o
+*.class
 
 # Temp files from VS Code Code Runner
 tempCodeRunnerFile.*
