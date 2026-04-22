@@ -58,4 +58,3 @@ class Stack:
         
 
 s1 = Stack(4)
-

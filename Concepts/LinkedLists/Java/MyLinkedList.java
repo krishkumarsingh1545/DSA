@@ -1,7 +1,7 @@
 import java.util.Scanner;
-public class LinkedList {
+public class MyLinkedList {
 
-    LinkedList() {
+    MyLinkedList() {
         Scanner sc = new Scanner(System.in);
         while (true) {
             System.out.println("\n----------------------------");
@@ -91,6 +91,6 @@ public class LinkedList {
 
 
     public static void main(String[] args) {
-        LinkedList foo = new LinkedList();
+        MyLinkedList foo = new MyLinkedList();
     }
 }
